@@ -1,0 +1,14 @@
+IFT 383
+Fall 2019
+
+Extra Credit Assignment
+
+	For the extra credit assignment, I created a simple python application called cashier that will display how much change the cashier will owe the customer. This program will not only show how much to pay the customer but what to pay them with. An example of this will be if you charge the customer $10, and he pays you $42.21 then the program will tell you to give the customer 32 Dollars, 0 Quarters, 2 Dimes, 0 Nickels, and 1 Pennie. 
+
+	To show more detail on how this program will work. Let’s take it step by step. First the program will allow you to enter the total cost. Once you enter the total cost it will then ask how much the customer gave you. After that it would then calculate it and tell you what to give the customer. If you put in a number less than what the total due is it will say, "The customer has paid less than the cost." It when then ask if you would want to quit or to continue. If you quit it will exit, and if you continue it will then restart again.
+
+	When I started to write this script, I was thinking based on some programs we did if there would be an easy way to display how much to give the customer all the way down to what coins to give them. Writing this script was pretty state forward based on how the program runs. First it gets the difference between the coins and dollars. It will then start a loop asking for the user input of cost. I then have it ask what the cash handed over is, and then it will display how much to give them.  After that it will ask if you want to quit. If you do the loop will break, and it will post a message saying the program is closing. If not then the loop will run again until you put quit. 
+
+When writing this program, I did not really run into issues. I mainly referenced the notes used in class, along with projects we did in the lab. How I went about testing it was through trial and error. I would do something then run and see if it works. If it did I moved on. If not then I would look into what was causing the error. I mainly did this program in parts, so it would be easier to track down issues if they came up. 
+
+	If I had to give myself advice before starting, I probably would have told myself to write more comments along with having an idea of what I wanted this program to do. My first idea was to have it so it will just display how much to give the customer, but that would have been way too simple. So I thin figured let me make it show how much to provide them by literally telling what to give the customer. Overall tho this was a fun project, and I did learn a lot from it.  
